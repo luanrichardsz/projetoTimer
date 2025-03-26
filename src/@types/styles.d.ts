@@ -1,7 +1,7 @@
 // Pagina de Definição de Tipos
 
 import 'styled-components';
-import { defaultTheme } from '../components/styles/themes/default';
+import { defaultTheme } from '../styles/themes/default';
 
 type ThemeType = typeof defaultTheme;
 
